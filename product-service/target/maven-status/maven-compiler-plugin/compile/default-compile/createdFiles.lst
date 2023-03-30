@@ -1,0 +1,10 @@
+com\stick\productservice\model\Product$ProductBuilder.class
+com\stick\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\stick\productservice\ProductServiceApplication.class
+com\stick\productservice\controller\ProductController.class
+com\stick\productservice\dto\ProductRequest.class
+com\stick\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\stick\productservice\model\Product.class
+com\stick\productservice\repository\ProductRepository.class
+com\stick\productservice\dto\ProductResponse.class
+com\stick\productservice\service\ProductService.class
